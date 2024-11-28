@@ -1,0 +1,9 @@
+{
+	"name": "dp-203-12367531274732",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "de45d579-df67-409d-99d5-fbc3f6d4236e",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
